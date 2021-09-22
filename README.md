@@ -2,7 +2,7 @@
 Горлач Женя	-	Products + модалка с видео для секции About
 Чередниченко Анна	-	About
 Шкваровская Яна	- Advantages ( TEAM LEAD )
-Мазуренко Лена - Gallery	
+Мазуренко Лена - Gallery + модалка для кнопки Franchise	
 Легоис Таня	-	Customer Reviews
 Рак Анна	-	Contacts
 Зубко Настя	-	Footer
